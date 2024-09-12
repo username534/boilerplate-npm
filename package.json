@@ -1,14 +1,16 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "A brief description of your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/repository.git"
+  },
+  "keywords": [],
+  "author": "Ermias Yosief",
+  "license": "ISC"
 }
